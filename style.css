@@ -1,0 +1,48 @@
+body{
+	background-color: #A2B29F;
+	color: rgb(30, 30, 30);
+	font-family: Helvetica;
+	font-size: 17px;
+}
+
+h1{color:#273C2C;  
+   font-size: 32px;}
+
+h2{color: #658864;
+	font-size: 24px;
+	text-transform: uppercase;
+}
+
+a{text-decoration: none;
+color: green;
+font-weight: bolder;}
+a:hover{color: #273C2C
+}
+
+/* Custom design with class */
+
+.card-white {background-color: white; 
+	padding: 25px; box 
+	box-shadow: 0px 10px 30px rgb(109, 117, 108); 
+	border-radius: 4px; margin: 30px 0px; 
+	text-align: center;}
+
+.img-circle {border-radius: 50%}
+
+.btn-green {background-color: #273C2C;
+           color: white;
+           padding: 15px 20px;
+           border-radius: 4px;}
+
+.btn-green:hover {background-color: #A2B29F; color: #273C2C;}
+
+.list-inline {list-style: none; padding-left: 0px;}
+
+.list-inline li {display: inline; padding: 10px;}
+
+.list-inline i { font-size: 50px; rgb(200, 200 , 200) }
+
+.list-inline i: hover{font-size: 50px; color: #273C2C}
+
+#introduction {text-align: center; }
+#introduction p {margin-bottom: 40px}
